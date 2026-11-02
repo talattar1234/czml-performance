@@ -1,0 +1,286 @@
+[
+  {
+    "aircraft": 100,
+    "strategy": "full",
+    "initialMs": 1556.6000000000931,
+    "loadHeap": 196011951,
+    "seeks": [
+      {
+        "seconds": 900,
+        "ms": 56.5,
+        "available": true
+      },
+      {
+        "seconds": 300,
+        "ms": 39,
+        "available": true
+      },
+      {
+        "seconds": 1620,
+        "ms": 42.89999999990687,
+        "available": true
+      }
+    ],
+    "playback": [
+      {
+        "speed": 1,
+        "details": false,
+        "realMs": 2629.5,
+        "simulationSeconds": 2.5565000000206055,
+        "metrics": [
+          {
+            "elapsed": 2.310100000000093,
+            "fps": 3.463053547465338,
+            "averageFps": 3.463053547465338,
+            "minFps": 3.463053547465338,
+            "frameMs": 288.76250000001164,
+            "heapMB": 201.6521167755127,
+            "loadedSamples": 180000,
+            "loadedChunks": 1,
+            "pending": 0,
+            "bytes": 38048693,
+            "processMs": 319.39999999990687,
+            "loadMs": 905.5,
+            "trailMs": 0,
+            "activeEntities": 117,
+            "renderedAircraft": 100,
+            "visibleGeometries": 17,
+            "initialMs": 1556.6000000000931,
+            "firstRenderMs": 2310.100000000093
+          },
+          {
+            "elapsed": 3.3725,
+            "fps": 11.295180722892557,
+            "averageFps": 5.930318754633062,
+            "minFps": 3.463053547465338,
+            "frameMs": 88.53333333332557,
+            "heapMB": 237.73011779785156,
+            "loadedSamples": 180000,
+            "loadedChunks": 1,
+            "pending": 0,
+            "bytes": 38048693,
+            "processMs": 319.39999999990687,
+            "loadMs": 905.5,
+            "trailMs": 0,
+            "activeEntities": 117,
+            "renderedAircraft": 100,
+            "visibleGeometries": 17,
+            "initialMs": 1556.6000000000931,
+            "firstRenderMs": 2310.100000000093
+          }
+        ],
+        "state": {
+          "t": 602,
+          "lon": 30.75445146263922,
+          "lat": 33.99930604769496,
+          "alt": 10301.548310223925,
+          "heading": 241.10425491817296,
+          "speed": 192.8438655763879,
+          "verticalSpeed": 0.6876867608201918,
+          "status": "Active",
+          "state": "Climbing"
+        }
+      },
+      {
+        "speed": 60,
+        "details": false,
+        "realMs": 2704.5,
+        "simulationSeconds": 156.57600000000093,
+        "metrics": [
+          {
+            "elapsed": 4.477600000000093,
+            "fps": 11.763641299428924,
+            "averageFps": 7.370019653385589,
+            "minFps": 3.463053547465338,
+            "frameMs": 85.00769230769947,
+            "heapMB": 249.59221649169922,
+            "loadedSamples": 180000,
+            "loadedChunks": 1,
+            "pending": 0,
+            "bytes": 38048693,
+            "processMs": 319.39999999990687,
+            "loadMs": 905.5,
+            "trailMs": 1.7999999998137355,
+            "activeEntities": 117,
+            "renderedAircraft": 100,
+            "visibleGeometries": 17,
+            "initialMs": 1556.6000000000931,
+            "firstRenderMs": 2310.100000000093
+          },
+          {
+            "elapsed": 5.5215,
+            "fps": 14.369192451385514,
+            "averageFps": 8.693289866884,
+            "minFps": 3.463053547465338,
+            "frameMs": 69.59333333332712,
+            "heapMB": 236.48876571655273,
+            "loadedSamples": 180000,
+            "loadedChunks": 1,
+            "pending": 0,
+            "bytes": 38048693,
+            "processMs": 319.39999999990687,
+            "loadMs": 905.5,
+            "trailMs": 1.3000000002793968,
+            "activeEntities": 117,
+            "renderedAircraft": 100,
+            "visibleGeometries": 17,
+            "initialMs": 1556.6000000000931,
+            "firstRenderMs": 2310.100000000093
+          },
+          {
+            "elapsed": 6.604900000000373,
+            "fps": 10.153221340221725,
+            "averageFps": 8.932762040302908,
+            "minFps": 3.463053547465338,
+            "frameMs": 98.49090909094296,
+            "heapMB": 237.33102416992188,
+            "loadedSamples": 180000,
+            "loadedChunks": 1,
+            "pending": 0,
+            "bytes": 38048693,
+            "processMs": 319.39999999990687,
+            "loadMs": 905.5,
+            "trailMs": 1.7999999998137355,
+            "activeEntities": 117,
+            "renderedAircraft": 100,
+            "visibleGeometries": 17,
+            "initialMs": 1556.6000000000931,
+            "firstRenderMs": 2310.100000000093
+          }
+        ],
+        "state": {
+          "t": 756,
+          "lon": 30.478514676993257,
+          "lat": 33.872947233391216,
+          "alt": 10421.98580840709,
+          "heading": 241.10425491817296,
+          "speed": 184.23260211736545,
+          "verticalSpeed": 0.7955475091407054,
+          "status": "Active",
+          "state": "Climbing"
+        }
+      }
+    ],
+    "loads": [
+      {
+        "start": 0,
+        "end": 1800,
+        "fetchMs": 905.5,
+        "processMs": 319.39999999990687,
+        "bytes": 38048693,
+        "samples": 180000
+      }
+    ],
+    "history": [
+      {
+        "elapsed": 2.310100000000093,
+        "fps": 3.463053547465338,
+        "averageFps": 3.463053547465338,
+        "minFps": 3.463053547465338,
+        "frameMs": 288.76250000001164,
+        "heapMB": 201.6521167755127,
+        "loadedSamples": 180000,
+        "loadedChunks": 1,
+        "pending": 0,
+        "bytes": 38048693,
+        "processMs": 319.39999999990687,
+        "loadMs": 905.5,
+        "trailMs": 0,
+        "activeEntities": 117,
+        "renderedAircraft": 100,
+        "visibleGeometries": 17,
+        "initialMs": 1556.6000000000931,
+        "firstRenderMs": 2310.100000000093
+      },
+      {
+        "elapsed": 3.3725,
+        "fps": 11.295180722892557,
+        "averageFps": 5.930318754633062,
+        "minFps": 3.463053547465338,
+        "frameMs": 88.53333333332557,
+        "heapMB": 237.73011779785156,
+        "loadedSamples": 180000,
+        "loadedChunks": 1,
+        "pending": 0,
+        "bytes": 38048693,
+        "processMs": 319.39999999990687,
+        "loadMs": 905.5,
+        "trailMs": 0,
+        "activeEntities": 117,
+        "renderedAircraft": 100,
+        "visibleGeometries": 17,
+        "initialMs": 1556.6000000000931,
+        "firstRenderMs": 2310.100000000093
+      },
+      {
+        "elapsed": 4.477600000000093,
+        "fps": 11.763641299428924,
+        "averageFps": 7.370019653385589,
+        "minFps": 3.463053547465338,
+        "frameMs": 85.00769230769947,
+        "heapMB": 249.59221649169922,
+        "loadedSamples": 180000,
+        "loadedChunks": 1,
+        "pending": 0,
+        "bytes": 38048693,
+        "processMs": 319.39999999990687,
+        "loadMs": 905.5,
+        "trailMs": 1.7999999998137355,
+        "activeEntities": 117,
+        "renderedAircraft": 100,
+        "visibleGeometries": 17,
+        "initialMs": 1556.6000000000931,
+        "firstRenderMs": 2310.100000000093
+      },
+      {
+        "elapsed": 5.5215,
+        "fps": 14.369192451385514,
+        "averageFps": 8.693289866884,
+        "minFps": 3.463053547465338,
+        "frameMs": 69.59333333332712,
+        "heapMB": 236.48876571655273,
+        "loadedSamples": 180000,
+        "loadedChunks": 1,
+        "pending": 0,
+        "bytes": 38048693,
+        "processMs": 319.39999999990687,
+        "loadMs": 905.5,
+        "trailMs": 1.3000000002793968,
+        "activeEntities": 117,
+        "renderedAircraft": 100,
+        "visibleGeometries": 17,
+        "initialMs": 1556.6000000000931,
+        "firstRenderMs": 2310.100000000093
+      },
+      {
+        "elapsed": 6.604900000000373,
+        "fps": 10.153221340221725,
+        "averageFps": 8.932762040302908,
+        "minFps": 3.463053547465338,
+        "frameMs": 98.49090909094296,
+        "heapMB": 237.33102416992188,
+        "loadedSamples": 180000,
+        "loadedChunks": 1,
+        "pending": 0,
+        "bytes": 38048693,
+        "processMs": 319.39999999990687,
+        "loadMs": 905.5,
+        "trailMs": 1.7999999998137355,
+        "activeEntities": 117,
+        "renderedAircraft": 100,
+        "visibleGeometries": 17,
+        "initialMs": 1556.6000000000931,
+        "firstRenderMs": 2310.100000000093
+      }
+    ],
+    "environment": {
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+      "viewport": [
+        1440,
+        1000
+      ],
+      "cores": 8,
+      "gpu": "ANGLE (Intel, Intel(R) HD Graphics 530 (0x00001912) Direct3D11 vs_5_0 ps_5_0, D3D11)"
+    }
+  }
+]

@@ -1,0 +1,33 @@
+{
+  "name": "czml-performance-lab",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "concurrently -k \"vite --host 127.0.0.1\" \"tsx watch server/index.ts\"",
+    "server": "tsx server/index.ts",
+    "build": "tsc --noEmit && vite build",
+    "test": "tsx --test tests/*.test.ts",
+    "test:browser": "playwright test",
+    "benchmark": "tsx scripts/benchmark.ts"
+  },
+  "dependencies": {
+    "cesium": "1.146.0",
+    "express": "5.1.0",
+    "react": "19.2.0",
+    "react-dom": "19.2.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.56.1",
+    "@types/express": "5.0.5",
+    "@types/node": "24.10.0",
+    "@types/react": "19.2.2",
+    "@types/react-dom": "19.2.2",
+    "@vitejs/plugin-react": "5.1.0",
+    "concurrently": "9.2.5",
+    "tsx": "4.20.6",
+    "typescript": "5.9.3",
+    "vite": "7.3.7",
+    "vite-plugin-static-copy": "3.1.4"
+  }
+}
